@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Brayan Vinodi, your friendly neighborhood engineer</h1>
+<h1 align="center">Hi 👋,I'm Brayan Vinodi, your friendly neighborhood engineer</h1>
 <h3 align="center">I'm a passionate Site Reliability Engineer (SRE) with a strong foundation in infrastructure automation, cloud platforms, and DevOps principles. I'm proficient in a range of tools and technologies that enable me to design, build, and maintain highly reliable and scalable systems.</h3>
 
 - 🔭 I’m currently working on **Cloud Security Skillset**
